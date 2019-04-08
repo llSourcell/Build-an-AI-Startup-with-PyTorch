@@ -4,6 +4,11 @@
 
 This is the code for [this](https://youtu.be/OE6wssMJoag) video on Youtube by Siraj Raval on building an AI Startup with PyTorch. [This](https://github.com/flatfisher/android-dialogflow-chatbot-sample) is the original Dialogflow + Android integration project. [This](https://colab.research.google.com/drive/1b6oSQl84XdRv_abjhg1vpTpiZyZw2TPF) is the colab that I demonstrated in the video where I train the PyTorch model on movie reviews, then convert it to ONNX, then to Tensorflow's expected protobuf format. 
 
+
+## #AISTARTUPCHALLENGE
+
+
+
 ## Dependencies
 
 - Firebase
